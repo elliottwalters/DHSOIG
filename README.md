@@ -15,7 +15,7 @@ This is where it ended up after going over it again. This is for the DHS side of
 
 ![image](charts 1.jpg)
 
-This is more from a journalist perspective. To try and make it less abstract I used people for the waffle pieces and tried to go with a green yellow red set to match with street light feeling people are comfortable with.
+This is more from a journalist perspective. To try and make it less abstract I used people for the waffle pieces and tried to go with a green yellow red set to match with street light feeling people are comfortable with. It is really close to the data used in the above donut chart but I like this more. It gives more weight to the numbers.
 
 ![image](DHS.jpg)
 
