@@ -11,6 +11,7 @@ I decided to try stacked bars and I am happier with the results. The jump is ver
 
 <iframe title="Change in Border Crossing&amp;nbsp; Apprehensions" aria-label="Stacked Bars" src="//datawrapper.dwcdn.net/mvLIq/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="176"></iframe>
 
+This is where it ended up after going over it again. This is for the DHS side of the assignment and is an obvious quick call for more funding and fast.
 
 ![image](charts 1.jpg)
 
