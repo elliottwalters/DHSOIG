@@ -11,5 +11,6 @@ I decided to try stacked bars and I am happier with the results. The jump is ver
 
 <iframe title="Change in Border Crossing&amp;nbsp; Apprehensions" aria-label="Stacked Bars" src="//datawrapper.dwcdn.net/mvLIq/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="176"></iframe>
 
+![image](Screen Shot 2019-07-16 at 4.10.44 PM)
 
 Costello, J. (July 02, 2019) DHS Needs to Address Dangerous Overcrowding.Washing D.C. Department of Homeland Security
