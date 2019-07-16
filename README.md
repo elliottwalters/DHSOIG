@@ -15,4 +15,10 @@ This is where it ended up after going over it again. This is for the DHS side of
 
 ![image](charts 1.jpg)
 
+This is more from a journalist perspective. To try and make it less abstract I used people for the waffle pieces and tried to go with a green yellow red set to match with street light feeling people are comfortable with.
+
+![image](DHS.jpg)
+
+
+
 Costello, J. (July 02, 2019) DHS Needs to Address Dangerous Overcrowding.Washing D.C. Department of Homeland Security
